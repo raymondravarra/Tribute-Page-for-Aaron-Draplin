@@ -1,5 +1,6 @@
 $( document ).ready(function() {
-    $("#text-box").addClass("animated fadeIn");
+    $('#text-box').addClass('animated fadeInDown');
+    $('main-image').addClass('animated fadeIn');
 
 
 });
